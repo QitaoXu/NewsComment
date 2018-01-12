@@ -19,7 +19,7 @@
 
 * For the register page: do not using any symbol like %,$,&... which is not allowed.
 * For the story uploaded page, you must contain the "https://" in your link address. Otherwise, it will not give you a response.
-* To view our code in Bit Bucket, please select branch Qitao and view readme file by selecting master branch.
+
 ### Creative Portion ###
 
 * First, we add a function called forget password, which you can use to reset you password. If you click this button,
